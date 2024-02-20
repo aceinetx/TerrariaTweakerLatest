@@ -9,3 +9,4 @@ App info:
 - Released on July 12, 2023
 - TTApplicator version: 1.2.1449.2
 <br><br>P.S. while writing it i remembered a way to download it: so you have to download latest TT2 from wayback machine (it will be outdated) and in the app you have to check the version and it will self-update to the latest one
+<br> Soon will find out the link it is downloading from (using wireshark) and paste it here
